@@ -189,8 +189,8 @@ bindsym $mod+r mode "resize"
 #        status_command i3status
 #}
 # Desktop wallpaper
-exec_always feh --bg-scale /home/amine/Pictures/wallpArch.jpg
-exec_always feh --bg-scale /home/amine/Pictures/wallpArch.jpg
+exec_always feh --bg-scale /home/username/Pictures/wallpArch.jpg
+exec_always feh --bg-scale /home/username/Pictures/wallpArch.jpg
 #polybar
-exec_always /home/amine/.config/polybar/launch.sh 
+exec_always /home/yourusername/.config/polybar/launch.sh 
 
